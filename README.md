@@ -2,12 +2,16 @@
 
 ## Danh sách công việc:
 + Nguyễn Việt Hoàng: UC tổng quan, UC quản lý giỏ hàng, UC Quản lý đơn hàng cá nhân
+  
   https://github.com/nvhoang55/TKXDPM.20211-07/issues/assigned/nvhoang55
 + Trần Văn Thành: UC quản lý thông tin cá nhân, UC Xem và duyệt đơn hàng
+  
   https://github.com/nvhoang55/TKXDPM.20211-07/issues/assigned/tranvanthanh99
 + Nguyễn Bá Tùng Lâm: UC thanh toán, UC tìm kiếm
+  
   https://github.com/nvhoang55/TKXDPM.20211-07/issues/assigned/Ngxba
 + Phạm Trung Hiếu: UC quản lý sản phẩm, UC quản lý thành viên
+  
   https://github.com/nvhoang55/TKXDPM.20211-07/issues/assigned/hieupt71099
 
 ## Danh sách review
