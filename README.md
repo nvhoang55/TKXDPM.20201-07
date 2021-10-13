@@ -11,7 +11,7 @@
 <br> https://github.com/nvhoang55/TKXDPM.20211-07/issues/assigned/hieupt71099
 
 ## Danh sách review
-Mỗi thành viên sẽ comment vào issues để nhận xét các thành viên khác.
+Mỗi thành viên sẽ comment vào issues và đặt label 'done' để nhận xét các thành viên khác
 - Nguyễn Việt Hoàng review Nguyễn Bá Tùng Lâm
 - Trần Văn Thành review Nguyễn Việt Hoàng
 - Phạm Trung Hiếu review Trần Văn Thành
