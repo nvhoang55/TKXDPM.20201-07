@@ -5,9 +5,9 @@
 <br> https://github.com/nvhoang55/TKXDPM.20211-07/issues/assigned/nvhoang55
 + Trần Văn Thành: UC quản lý thông tin cá nhân, UC Xem và duyệt đơn hàng
 <br> https://github.com/nvhoang55/TKXDPM.20211-07/issues/assigned/tranvanthanh99
-+ Nguyễn Bá Tùng Lâm: UC thanh toán, UC tìm kiếm  
++ Nguyễn Bá Tùng Lâm: UC thanh toán, UC tìm kiếm
 <br> https://github.com/nvhoang55/TKXDPM.20211-07/issues/assigned/Ngxba
-+ Phạm Trung Hiếu: UC quản lý sản phẩm, UC quản lý thành viên  
++ Phạm Trung Hiếu: UC quản lý sản phẩm, UC quản lý thành viên
 <br> https://github.com/nvhoang55/TKXDPM.20211-07/issues/assigned/hieupt71099
 
 ## Danh sách review
