@@ -1,5 +1,8 @@
 # TKXDPM.20211-07
 
+## Email nộp bài
+dayhocuy2355@gmail.com
+
 ## Danh sách công việc:
 + Nguyễn Việt Hoàng: UC tổng quan, UC quản lý giỏ hàng, UC Quản lý đơn hàng cá nhân
 <br> https://github.com/nvhoang55/TKXDPM.20211-07/issues/assigned/nvhoang55
