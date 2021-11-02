@@ -1,0 +1,107 @@
+{
+	"_type": "UMLClass",
+	"_id": "AAAAAAF84aQEFuol9pk=",
+	"_parent": {
+		"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+	},
+	"name": "User",
+	"attributes": [
+		{
+			"_type": "UMLAttribute",
+			"_id": "AAAAAAF84aQqWupULpg=",
+			"_parent": {
+				"$ref": "AAAAAAF84aQEFuol9pk="
+			},
+			"name": "userID",
+			"type": "varchar(255)"
+		},
+		{
+			"_type": "UMLAttribute",
+			"_id": "AAAAAAF84aYhgepcLd8=",
+			"_parent": {
+				"$ref": "AAAAAAF84aQEFuol9pk="
+			},
+			"name": "fullname",
+			"type": "varchar(255)"
+		},
+		{
+			"_type": "UMLAttribute",
+			"_id": "AAAAAAF84aZnyepjZig=",
+			"_parent": {
+				"$ref": "AAAAAAF84aQEFuol9pk="
+			},
+			"name": "phone",
+			"type": "int"
+		},
+		{
+			"_type": "UMLAttribute",
+			"_id": "AAAAAAF84aZ+gOpqV0c=",
+			"_parent": {
+				"$ref": "AAAAAAF84aQEFuol9pk="
+			},
+			"name": "email",
+			"type": "varchar(255)"
+		},
+		{
+			"_type": "UMLAttribute",
+			"_id": "AAAAAAF84aaNXOpxV9M=",
+			"_parent": {
+				"$ref": "AAAAAAF84aQEFuol9pk="
+			},
+			"name": "address",
+			"type": "varchar(255)"
+		},
+		{
+			"_type": "UMLAttribute",
+			"_id": "AAAAAAF84abEoOp4+8Y=",
+			"_parent": {
+				"$ref": "AAAAAAF84aQEFuol9pk="
+			},
+			"name": "username",
+			"type": "varchar(255)"
+		},
+		{
+			"_type": "UMLAttribute",
+			"_id": "AAAAAAF84abav+p/Di0=",
+			"_parent": {
+				"$ref": "AAAAAAF84aQEFuol9pk="
+			},
+			"name": "password",
+			"type": "varchar(255)"
+		}
+	],
+	"operations": [
+		{
+			"_type": "UMLOperation",
+			"_id": "AAAAAAF84aQWaupO5RQ=",
+			"_parent": {
+				"$ref": "AAAAAAF84aQEFuol9pk="
+			},
+			"name": "addUser"
+		},
+		{
+			"_type": "UMLOperation",
+			"_id": "AAAAAAF84ae/5eqOhSo=",
+			"_parent": {
+				"$ref": "AAAAAAF84aQEFuol9pk="
+			},
+			"name": "removeUser"
+		},
+		{
+			"_type": "UMLOperation",
+			"_id": "AAAAAAF84afnIOqVo6k=",
+			"_parent": {
+				"$ref": "AAAAAAF84aQEFuol9pk="
+			},
+			"name": "updateUser"
+		},
+		{
+			"_type": "UMLOperation",
+			"_id": "AAAAAAF84ai4ieqcoG4=",
+			"_parent": {
+				"$ref": "AAAAAAF84aQEFuol9pk="
+			},
+			"name": "checkUser"
+		}
+	]
+}

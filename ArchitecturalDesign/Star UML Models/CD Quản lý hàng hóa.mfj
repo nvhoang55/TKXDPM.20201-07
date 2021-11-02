@@ -1,0 +1,134 @@
+{
+	"_type": "UMLClass",
+	"_id": "AAAAAAF84Zw2nOlUQ4A=",
+	"_parent": {
+		"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+	},
+	"name": "Product",
+	"attributes": [
+		{
+			"_type": "UMLAttribute",
+			"_id": "AAAAAAF84ZxgtemGXj4=",
+			"_parent": {
+				"$ref": "AAAAAAF84Zw2nOlUQ4A="
+			},
+			"name": "productID",
+			"stereotype": "",
+			"type": "int"
+		},
+		{
+			"_type": "UMLAttribute",
+			"_id": "AAAAAAF84Zxt2+mMLqs=",
+			"_parent": {
+				"$ref": "AAAAAAF84Zw2nOlUQ4A="
+			},
+			"name": "image",
+			"type": "varchar(255)"
+		},
+		{
+			"_type": "UMLAttribute",
+			"_id": "AAAAAAF84ZxwOemS06M=",
+			"_parent": {
+				"$ref": "AAAAAAF84Zw2nOlUQ4A="
+			},
+			"name": "name",
+			"type": "varchar(255)"
+		},
+		{
+			"_type": "UMLAttribute",
+			"_id": "AAAAAAF84ZyvMemgBGI=",
+			"_parent": {
+				"$ref": "AAAAAAF84Zw2nOlUQ4A="
+			},
+			"name": "product_type",
+			"type": "varchar(255)"
+		},
+		{
+			"_type": "UMLAttribute",
+			"_id": "AAAAAAF84Z+gJunxxQQ=",
+			"_parent": {
+				"$ref": "AAAAAAF84Zw2nOlUQ4A="
+			},
+			"name": "description",
+			"type": "varchar(255)"
+		},
+		{
+			"_type": "UMLAttribute",
+			"_id": "AAAAAAF84Z/nKen4OKI=",
+			"_parent": {
+				"$ref": "AAAAAAF84Zw2nOlUQ4A="
+			},
+			"name": "price",
+			"type": "int"
+		},
+		{
+			"_type": "UMLAttribute",
+			"_id": "AAAAAAF84aAG3un/OT4=",
+			"_parent": {
+				"$ref": "AAAAAAF84Zw2nOlUQ4A="
+			},
+			"name": "status",
+			"type": "varchar(255)"
+		}
+	],
+	"operations": [
+		{
+			"_type": "UMLOperation",
+			"_id": "AAAAAAF84ZzTmOmyPA4=",
+			"_parent": {
+				"$ref": "AAAAAAF84Zw2nOlUQ4A="
+			},
+			"name": "addProduct"
+		},
+		{
+			"_type": "UMLOperation",
+			"_id": "AAAAAAF84Zzxr+m4Sis=",
+			"_parent": {
+				"$ref": "AAAAAAF84Zw2nOlUQ4A="
+			},
+			"name": "removeProduct"
+		},
+		{
+			"_type": "UMLOperation",
+			"_id": "AAAAAAF84aFGmuoPFyM=",
+			"_parent": {
+				"$ref": "AAAAAAF84Zw2nOlUQ4A="
+			},
+			"name": "updateProduct"
+		},
+		{
+			"_type": "UMLOperation",
+			"_id": "AAAAAAF84aFtG+oWEyI=",
+			"_parent": {
+				"$ref": "AAAAAAF84Zw2nOlUQ4A="
+			},
+			"name": "viewProduct"
+		},
+		{
+			"_type": "UMLOperation",
+			"_id": "AAAAAAF84aIXyuodY40=",
+			"_parent": {
+				"$ref": "AAAAAAF84Zw2nOlUQ4A="
+			},
+			"name": "checkStatus"
+		}
+	],
+	"receptions": [
+		{
+			"_type": "UMLReception",
+			"_id": "AAAAAAF84Zy7w+mm86Q=",
+			"_parent": {
+				"$ref": "AAAAAAF84Zw2nOlUQ4A="
+			},
+			"name": "Reception1"
+		},
+		{
+			"_type": "UMLReception",
+			"_id": "AAAAAAF84ZzIGumsEOs=",
+			"_parent": {
+				"$ref": "AAAAAAF84Zw2nOlUQ4A="
+			},
+			"name": "Reception2"
+		}
+	]
+}
